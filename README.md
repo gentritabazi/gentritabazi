@@ -4,7 +4,7 @@ My name is Gentrit Abazi and I am a Software Engineer, currently living in Kosov
 
 
 - 🔭 I’m currently working on [Kutia](https://kutia.net).
-- 🌱 I use daily: `.php`, `.js`, `.html`, `.css`, `.vue` & `.ts`.
+- 🌱 I use: `.php`, `.js`, `.html`, `.css`, `.vue` & `.ts`.
 - 👯 Learning all about Open Source.
 - 💬 Ping me about: laravel, development & open source.
 - 📫 Reach me: [Facebook](https://www.facebook.com/gentritabazi01), [Twitter](https://www.twitter.com/gentritabazi01) & [Linkedin](https://www.linkedin.com/in/gentritabazi01).
