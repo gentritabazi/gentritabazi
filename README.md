@@ -6,7 +6,7 @@ My name is Gentrit Abazi and I am a Software Engineer, currently living in Kosov
 - 🔭 I’m currently working on [Behamics](https://behamics.com).
 - 🌱 I use: `.php`, `.js`, `.html`, `.css`, `.vue` & `.ts`.
 - 👯 Learning all about Open Source.
-- 💬 Ping me about: laravel, php, javascript, node, development & open source.
+- 💬 Ping me about: node, javascript, laravel, php, development & open source.
 - 📫 Reach me: [Facebook](https://www.facebook.com/gentritabazi01), [Twitter](https://www.twitter.com/gentritabazi01) & [Linkedin](https://www.linkedin.com/in/gentritabazi01).
 - ⚡ Fun fact: I'm big fan of TV Show - The Walking Dead & Breaking Bad.
 - 💰 Support me to make cool packages: [Ko fi](https://ko-fi.com/gentritabazi01) & [Paypal](https://www.paypal.com/paypalme/gentritabazi01).
