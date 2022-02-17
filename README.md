@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Gentrit Abazi and I am a Software Engineer, currently living in Kosovo Mitrovice. I have more than 4+ years of experience working in projects as developer.
+Hi, my name is Gentrit Abazi, and I am a Software Engineer currently living in Kosovo Mitrovice. I have more than 4+ years of experience working on projects as a developer.
 
 
 - 🔭 I'm currently working as Software Engineer.
