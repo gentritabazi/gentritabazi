@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Hi, my name is Gentrit Abazi, and I am a Software Engineer currently living in Kosovo Mitrovice. I have more than 4+ years of experience working on projects as a developer. A highly motivated and dedicated professional, that is willing to learn new technologies and always deliver the best possible results.
+I'm Gentrit Abazi, a highly motivated and dedicated Software Engineer from Kosovo Mitrovice with 4+ years of experience in development. I enjoy learning new technologies and always strive to deliver the best possible results.
 
-
-- 🔭 I'm currently working as Software Engineer.
-- 🌱 I have experience on: `.php`, `.js`, `.html`, `.css`, `.vue`, `.dart` & `.ts`.
-- 👯 Learning all about Open Source.
-- 💬 Ping me about: node, javascript, laravel, php, vue & open source.
-- 📫 Reach me: [Facebook](https://www.facebook.com/gentritabazi01), [Twitter](https://www.twitter.com/gentritabazi01) & [Linkedin](https://www.linkedin.com/in/gentritabazi01).
-- ⚡ Fact: I'm big fan of TV Show - The Walking Dead & Breaking Bad.
-- 💰 Support me to make cool packages: [Ko fi](https://ko-fi.com/gentritabazi01) & [Paypal](https://www.paypal.com/paypalme/gentritabazi01).
+- 🔭 Working as a Software Engineer.
+- 🌱 Experienced in Node.js/Express.js/Nest.js, PHP/Laravel, Dart/Flutter, HTML/CSS/Vue.js.
+- 👯 Passionate about Open Source and always looking for new opportunities to contribute.
+- 📫 Reach me at [Facebook](https://www.facebook.com/gentritabazi01), [Twitter](https://www.twitter.com/gentritabazi01), and [LinkedIn](https://www.linkedin.com/in/gentritabazi01).
+- ⚡ Fun fact: I'm a big fan of TV shows like The Walking Dead and Breaking Bad.
+- 💰 If you find my work helpful, consider supporting me: [Ko-fi](https://ko-fi.com/gentritabazi01) & [Paypal](https://www.paypal.com/paypalme/gentritabazi01).
