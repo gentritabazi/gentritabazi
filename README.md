@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gentrit Abazi, a highly motivated and dedicated Software Engineer from Kosovo Mitrovice with 4+ years of experience in development. I enjoy learning new technologies and always strive to deliver the best possible results.
+I'm Gentrit Abazi, a highly motivated and dedicated Software Engineer from Kosovo Mitrovice with 5+ years of experience in development. I enjoy learning new technologies and always strive to deliver the best possible results.
 
 - 🔭 Working as a Software Engineer.
 - 🌱 Experienced in Node.js/Express.js/Nest.js, PHP/Laravel, MySql/PostgreSQL/Firebase/MangoDB, HTML/CSS/SCSS/Vue.js/NuxtJs.
