@@ -21,3 +21,4 @@ I'm Gentrit Abazi, a highly motivated and dedicated Software Engineer from Kosov
 - [gentritabazi/bank-transaction-nodejs](https://github.com/gentritabazi/bank-transaction-nodejs)
 - [gentritabazi/laravel-mini-crm](https://github.com/gentritabazi/laravel-mini-crm)
 - [gentritabazi/typeorm-simple-query-parser](https://github.com/gentritabazi/typeorm-simple-query-parser)
+- [gentritabazi/vuejs-soft-ui-starter](https://github.com/gentritabazi/vuejs-soft-ui-starter)
