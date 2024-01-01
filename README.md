@@ -16,7 +16,6 @@ I'm Gentrit Abazi, a highly motivated and dedicated Software Engineer from Kosov
 - [one2tek/larapi](https://github.com/one2tek/larapi)
 - [kutia-software-company/larafirebase](https://github.com/kutia-software-company/larafirebase)
 - [kutia-software-company/express-typescript-starter](https://github.com/kutia-software-company/express-typescript-starter)
-- [gentritabazi/vuejs-soft-ui-starter/vuejs-soft-ui-starter](https://github.com/gentritabazi/vuejs-soft-ui-starter)
 - [gentritabazi/monthly-expenses-app-backend](https://github.com/gentritabazi/monthly-expenses-app-backend)
 - [gentritabazi/bank-transaction-nodejs](https://github.com/gentritabazi/bank-transaction-nodejs)
 - [gentritabazi/laravel-mini-crm](https://github.com/gentritabazi/laravel-mini-crm)
