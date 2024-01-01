@@ -18,3 +18,7 @@ I'm Gentrit Abazi, a highly motivated and dedicated Software Engineer from Kosov
 - [kutia-software-company/express-typescript-starter](https://github.com/kutia-software-company/express-typescript-starter)
 - [vuejs-soft-ui-starter/vuejs-soft-ui-starter](https://github.com/gentritabazi/vuejs-soft-ui-starter)
 - [monthly-expenses-app-backend/monthly-expenses-app-backend](https://github.com/gentritabazi/monthly-expenses-app-backend)
+- [bank-transaction-nodejs](https://github.com/gentritabazi/bank-transaction-nodejs)
+- [monthly-expenses-app-backend](https://github.com/gentritabazi/monthly-expenses-app-backend)
+- [laravel-mini-crm](https://github.com/gentritabazi/laravel-mini-crm)
+- [typeorm-simple-query-parser](https://github.com/gentritabazi/typeorm-simple-query-parser)
